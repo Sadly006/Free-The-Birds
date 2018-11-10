@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\dr. thrax\source\repos\roll-26\roll-26\main.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Roll-26.vcxproj -> C:\Users\Dr. Thrax\source\repos\Roll-26\Debug\Roll-26.exe
